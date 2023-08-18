@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Sifana Nasrin and I'm a full-stack developer from India</h2>
+<h2 align="left">Hi 👋! My name is  Sifana Nasrin and I'm a full-stack developer 👩🏽‍💻 from India</h2>
 
 ###
 
