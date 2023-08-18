@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sifaananazrin/sifaananazrin/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
